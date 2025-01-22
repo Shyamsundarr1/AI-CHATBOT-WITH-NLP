@@ -14,6 +14,8 @@
 
 *PLATFORM USED*: VISUAL STUDIO CODE
 
+*TOOLS USED*: VIRTUAL ENVIRONMENT
+
 *DESCRIPTION*:
 
 This program leverages the nltk library to create a simple rule-based chatbot. The chatbot engages in conversations with users by matching their input with predefined patterns and responding with corresponding replies. It’s a fundamental example of how chatbots function using pattern matching and predefined responses.
