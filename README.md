@@ -53,3 +53,7 @@ pip install nltk
 
 Summary
 The chatbot program exemplifies a straightforward yet effective approach to creating conversational agents using predefined patterns and responses. It showcases the use of regular expressions for pattern matching and the utility of the nltk library for natural language processing tasks. While the chatbot is basic, its structure provides a foundation for more complex interactions and improvements, such as adding more patterns, responses, and integrating machine learning models for enhanced capabilities. The chatbot’s ability to engage users with personalized responses adds a touch of interactivity, making it an excellent starting point for those interested in developing conversational AI.
+
+#output:
+
+![Image](https://github.com/user-attachments/assets/2352591b-663a-4889-9138-d552107b46a4)
